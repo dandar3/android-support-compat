@@ -10,7 +10,7 @@ Eclipse library project based on:<br/>
 **References:**
 - https://plus.google.com/+IanLake/posts/NwdzkCkqeuz
 - https://developer.android.com/topic/libraries/support-library/revisions.html
-- https://developer.android.com/topic/libraries/support-library/features.html#v4-support
+- https://developer.android.com/topic/libraries/support-library/features.html#v4-compat
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
