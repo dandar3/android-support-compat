@@ -5,7 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
+- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/25.0.1)
 
 **References:**
 - https://plus.google.com/wm/4/+IanLake/posts/ajFE8GneXqm
