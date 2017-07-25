@@ -1,10 +1,10 @@
 ## android-support-compat
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-compat/26.0.0/support-compat-26.0.0.aar`
+https://maven.google.com/com/android/support/support-compat/26.0.0/support-compat-26.0.0.aar
 
 **Requires:**
-- `Android 7.1 (API 25) SDK Platform`
+- `Android 8.0 (API 26) SDK Platform`
 - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/26.0.0)
 
 **References:**
