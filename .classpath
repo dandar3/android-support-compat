@@ -7,5 +7,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-arch-lifecycle-runtime"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-collections"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-versionedparcelable"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
